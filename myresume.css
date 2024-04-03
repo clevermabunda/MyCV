@@ -1,0 +1,54 @@
+title {
+      background-color : black;
+      color : white
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+    margin-top: auto;
+    text-align: center;
+}
+
+body {
+     background-color: black;
+     color: white;
+     font-family: Arial, Helvetica, sans-serif;
+     list-style-type: circle;
+}
+
+form {
+     background-color: rgb(0, 195, 255);
+     color: black;
+}
+
+a:link {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  color: hotpink;
+  text-decoration: none;
+}
+
+a:active {
+  color: blue;
+}
+
+a:visited {
+  color: green;
+  text-decoration: none;
+}
+
+image {
+  height: 150px;
+  width: 30%;
+}  
+ 
+img {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
